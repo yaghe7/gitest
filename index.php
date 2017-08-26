@@ -3,7 +3,7 @@
 <html>
 
 <head>
-	<title>GitHub Test giTest</title>
+	<title>GitHub Test (giTest)</title>
 </head>
 
 <body>
