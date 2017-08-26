@@ -13,6 +13,10 @@
 	<p>
 		This is a test
 	</p>
+	
+	<hr>
+	
+	<img src="http://olakoo.ir/uploads/ess/logo/olakoo.png" alt="Olakoo logo" title="olakoo.ir logo" >
 
 </body>
 
